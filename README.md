@@ -1,7 +1,11 @@
 ## My Name is Garrison Blackmore a Freshmen in Computer Science at East Carolina University (CLass of 2029)
+
 I have am fluent in C+, C, Java, html and Python and am looking for a career in front or backend technology, or A.I
+
 I am currently taking Algorithims and Data Structures (CSCI-2530) and Discrete Structures II (CSCI-2405)
+
 I am a member of the Association for Computing Machinary (ACM)
+
 The current project I am working on is a digital bus/truck precheck form that can be used for any bus, truck, or transportation company
 
 
